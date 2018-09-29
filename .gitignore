@@ -28,3 +28,11 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 *.actual
+secrets.yml
+
+repos.tar.gz*
+
+.classpath
+.settings
+.cache*
+.project
